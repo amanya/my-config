@@ -15,7 +15,7 @@ after a grave (`) or apostrophe ('). I type more often those characters than acc
 
 Those are the tweaks I make to my layout:
 
-* `AltGr` + `\`` and then `a`, `e`, `o` to produce `à`, `è`, `ò`
+* `AltGr` + ````` and then `a`, `e`, `o` to produce `à`, `è`, `ò`
 * `AltGr` + `'` and then `a`, `e`, `i`, `o`, `u` to produce `é`, `í`, `ó`, `ú`
 * `AltGr` + `l` to produce `ŀ`
 * `AltGr` + `L` to produce `Ŀ`
