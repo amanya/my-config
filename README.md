@@ -16,13 +16,13 @@ accents.
 
 Those are the tweaks I make to my layout:
 
-* `AltGr` + `` ` `` and then `a`, `e`, `o` to produce `à`, `è`, `ò`
-* `AltGr` + `'` and then `e`, `i`, `o`, `u` to produce `é`, `í`, `ó`, `ú`
+* `AltGr` + `` ` `` and then `a`, `e` or `o` to produce `à`, `è` or `ò`
+* `AltGr` + `'` and then `e`, `i`, `o` or `u` to produce `é`, `í`, `ó` or `ú`
 * `AltGr` + `l` to produce `ŀ`
 * `AltGr` + `L` to produce `Ŀ`
 * `AltGr` + `c` to produce `ç`
 * `AltGr` + `C` to produce `Ç`
-* `AltGr` + `~` (`SHIFT` + `` ` ``) and then `n`, `N` to produce `ñ`, `Ñ`
+* `AltGr` + `~` (`SHIFT` + `` ` ``) and then `n` or `N` to produce `ñ` or `Ñ`
 
 ### Install on GNU Linux
 
