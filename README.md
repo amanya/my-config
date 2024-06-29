@@ -1,20 +1,20 @@
-# My config AKA dotfiles
+# My Config AKA Dotfiles
 
-Nth atempt to store my Linux configs
+Nth attempt to store my Linux configs
 
-## Keyboard layout
+## Keyboard Layout
 
 My preferred keyboard layout is the basic US with some tweaks to write all
-symbols used in catalan.
+symbols used in Catalan.
 
-I prefer the US layout because the brackets, commas, etc are in more convenient
-position for programming.
+I prefer the US layout because the brackets, commas, etc., are in more
+convenient positions for programming.
 
-I don't want to use the regular spanish layout because I need to type a space
-after a grave (`) or apostrophe ('). I type more often those characters than
+I don't want to use the regular Spanish layout because I need to type a space
+after a grave (`) or apostrophe ('). I type those characters more often than
 accents.
 
-Those are the tweaks I make to my layout:
+These are the tweaks I made to the US layout:
 
 * `AltGr` + `` ` `` and then `a`, `e` or `o` to produce `à`, `è` or `ò`
 * `AltGr` + `'` and then `e`, `i`, `o` or `u` to produce `é`, `í`, `ó` or `ú`
@@ -24,7 +24,7 @@ Those are the tweaks I make to my layout:
 * `AltGr` + `c` to produce `ç`
 * `AltGr` + `C` to produce `Ç`
 
-### Install on GNU Linux
+### Install on GNU/Linux
 
 I tested it in Debian 11 and Ubuntu 24.04, both using Gnome.
 
