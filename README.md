@@ -33,3 +33,15 @@ Copy the directory `xkb` to `~/.config`
 Go to `Settings` &rarr; `Keyboard`. In `Input Sources` click the plus sign and
 select `English`. In the list that appears you should see a variant called
 `Catalan (US)`.
+
+### Bonus: Mac layout
+
+I want to use the same keyboard settings when I work on Mac, so I created a
+keyboard layout using [Ukelele](https://software.sil.org/ukelele/).
+
+Copy [Catalan.keylayout](misc/mac-keyboard-layout/Catalan.keylayout) and
+[Catalan.icms](misc/mac-keyboard-layout/Catalan.icms) to `~/Library/Keyboard
+Layouts/`, restart your computer and you should be able to add a Catalan input
+source.
+
+The icon is very bad, I need to improve it.
