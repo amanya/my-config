@@ -16,8 +16,9 @@ accents.
 
 These are the tweaks I made to the US layout:
 
-* `AltGr` + `` ` `` and then `a`, `e` or `o` to produce `à`, `è` or `ò`
-* `AltGr` + `'` and then `e`, `i`, `o` or `u` to produce `é`, `í`, `ó` or `ú`
+* `AltGr` + `` ` `` and then `a`, `e`, `o`, `A`, `E` or `O` to produce `à`, `è`, `ò`, `À`, `È` or `Ò`
+* `AltGr` + `'` and then `e`, `i`, `o`, `u`, `E`, `I`, `O` or `U` to produce `é`, `í`, `ó`, `ú`, `É`, `Í`, `Ó` or `Ú`
+* `AltGr` + `"` and then `i`, `u`, `I` or `U` to produce `ï`, `ü`, `Ï` or `Ü`
 * `AltGr` + `~` (`SHIFT` + `` ` ``) and then `n` or `N` to produce `ñ` or `Ñ`
 * `AltGr` + `l` to produce `ŀ`
 * `AltGr` + `L` to produce `Ŀ`
