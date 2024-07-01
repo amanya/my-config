@@ -44,5 +44,3 @@ Copy [Catalan.keylayout](misc/mac-keyboard-layout/Catalan.keylayout) and
 [Catalan.icms](misc/mac-keyboard-layout/Catalan.icms) to `~/Library/Keyboard
 Layouts/`, restart your computer and you should be able to add a Catalan input
 source.
-
-The icon is very bad, I need to improve it.
