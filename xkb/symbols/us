@@ -8,9 +8,12 @@ xkb_symbols "catalan" {
 
     // Example:
     key <TLDE> { [          grave,        asciitilde,           dead_grave,           dead_tilde ] };
+    key <AD03> { [              e,                 E,           dead_acute,           dead_acute ] };
+    key <AD07> { [              u,                 U,       dead_diaeresis,       dead_diaeresis ] };
     key <AC09> { [              l,                 L,            0x1000140,            0x100013F ] };
-    key <AC11> { [     apostrophe,          quotedbl,           dead_acute,       dead_diaeresis ] };
     key <AB03> { [              c,                 C,             ccedilla,             Ccedilla ] };
+    key <AB06> { [              n,                 N,               ntilde,               Ntilde ]};
+    key <AB09> { [         period,           greater,       periodcentered,       periodcentered ]};
 };
 
 include "level3(ralt_switch)"

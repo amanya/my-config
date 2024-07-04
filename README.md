@@ -4,26 +4,32 @@ Nth attempt to store my Linux configs
 
 ## Keyboard Layout
 
-My preferred keyboard layout is the basic US with some tweaks to write all
+I don't want to use the regular Spanish layout because I need to type a space
+after a grave (`) or apostrophe ('). I type those characters more often than
+accents.
+
+My preferred layout is the basic US with some tweaks to write the special
 symbols used in Catalan.
 
 I prefer the US layout because the brackets, commas, etc., are in more
 convenient positions for programming.
 
-I don't want to use the regular Spanish layout because I need to type a space
-after a grave (`) or apostrophe ('). I type those characters more often than
-accents.
+The position of the dead keys for the acute accent and the diaresis are the
+same than in the Mac layout (`e` and `u`) because I find it easier to type than
+`'` and '"`.
 
 These are the tweaks I made to the US layout:
 
-* `AltGr` + `` ` `` and then `a`, `e`, `o`, `A`, `E` or `O` to produce `à`, `è`, `ò`, `À`, `È` or `Ò`
-* `AltGr` + `'` and then `e`, `i`, `o`, `u`, `E`, `I`, `O` or `U` to produce `é`, `í`, `ó`, `ú`, `É`, `Í`, `Ó` or `Ú`
-* `AltGr` + `"` and then `i`, `u`, `I` or `U` to produce `ï`, `ü`, `Ï` or `Ü`
-* `AltGr` + `~` (`SHIFT` + `` ` ``) and then `n` or `N` to produce `ñ` or `Ñ`
+* `AltGr` + `` ` `` and then `a`, `A`, etc.,  to produce `à`, `À`, etc.
+* `AltGr` + `e` and then `a`, `A`, etc., to produce `á`, `Á`, etc.
+* `AltGr` + `u` and then `a`, `A`, etc., to produce `ä`, `Ä`, etc.
 * `AltGr` + `l` to produce `ŀ`
 * `AltGr` + `L` to produce `Ŀ`
 * `AltGr` + `c` to produce `ç`
 * `AltGr` + `C` to produce `Ç`
+* `AltGr` + `n` to produce `ñ`
+* `AltGr` + `N` to produce `Ñ`
+* `AltGr` + `.` to produce `·`
 
 ### Install on GNU/Linux
 
@@ -44,5 +50,3 @@ Copy [Catalan.keylayout](misc/mac-keyboard-layout/Catalan.keylayout) and
 [Catalan.icms](misc/mac-keyboard-layout/Catalan.icms) to `~/Library/Keyboard
 Layouts/`, restart your computer and you should be able to add a Catalan input
 source.
-
-The icon is very bad, I need to improve it.
